@@ -1,0 +1,10 @@
+{
+    "domain": "nc450_sound",
+    "name": "TPLink Nc450 Sound Status",
+    "documentation": "https://github.com/ttroy50/home-assistant-custom-components",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+  }
+  
+  

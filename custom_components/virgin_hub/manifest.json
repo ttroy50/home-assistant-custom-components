@@ -1,0 +1,9 @@
+{
+    "domain": "virgin_hub",
+    "name": "Virgin Media Hub Status",
+    "documentation": "https://github.com/ttroy50/home-assistant-custom-components",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+  }
+  
